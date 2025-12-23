@@ -1,4 +1,4 @@
-# I told you I disallowed you 
+#I told you I disallowed you 
 
 User-agent: *
 Disallow: /
